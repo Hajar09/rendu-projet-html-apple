@@ -211,7 +211,7 @@ padding: 40px 0 0 197px;
 }
 a {
   color: black;
-  text-decoration: black;
+  text-decoration: none;
 
 }
 a:hover {
